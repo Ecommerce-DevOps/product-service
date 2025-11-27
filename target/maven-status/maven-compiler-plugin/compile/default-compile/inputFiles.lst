@@ -1,24 +1,24 @@
-/home/geoffrey0pv/Projects/2025-2/Ingeosft5/ecommerce-microservice-backend-app/product-service/src/main/java/com/selimhorri/app/resource/CategoryResource.java
-/home/geoffrey0pv/Projects/2025-2/Ingeosft5/ecommerce-microservice-backend-app/product-service/src/main/java/com/selimhorri/app/domain/AbstractMappedEntity.java
-/home/geoffrey0pv/Projects/2025-2/Ingeosft5/ecommerce-microservice-backend-app/product-service/src/main/java/com/selimhorri/app/exception/ApiExceptionHandler.java
-/home/geoffrey0pv/Projects/2025-2/Ingeosft5/ecommerce-microservice-backend-app/product-service/src/main/java/com/selimhorri/app/service/CategoryService.java
-/home/geoffrey0pv/Projects/2025-2/Ingeosft5/ecommerce-microservice-backend-app/product-service/src/main/java/com/selimhorri/app/exception/payload/ExceptionMsg.java
-/home/geoffrey0pv/Projects/2025-2/Ingeosft5/ecommerce-microservice-backend-app/product-service/src/main/java/com/selimhorri/app/dto/response/collection/DtoCollectionResponse.java
-/home/geoffrey0pv/Projects/2025-2/Ingeosft5/ecommerce-microservice-backend-app/product-service/src/main/java/com/selimhorri/app/exception/wrapper/CategoryNotFoundException.java
-/home/geoffrey0pv/Projects/2025-2/Ingeosft5/ecommerce-microservice-backend-app/product-service/src/main/java/com/selimhorri/app/domain/Product.java
-/home/geoffrey0pv/Projects/2025-2/Ingeosft5/ecommerce-microservice-backend-app/product-service/src/main/java/com/selimhorri/app/constant/AppConstant.java
-/home/geoffrey0pv/Projects/2025-2/Ingeosft5/ecommerce-microservice-backend-app/product-service/src/main/java/com/selimhorri/app/config/mapper/MapperConfig.java
-/home/geoffrey0pv/Projects/2025-2/Ingeosft5/ecommerce-microservice-backend-app/product-service/src/main/java/com/selimhorri/app/repository/CategoryRepository.java
-/home/geoffrey0pv/Projects/2025-2/Ingeosft5/ecommerce-microservice-backend-app/product-service/src/main/java/com/selimhorri/app/exception/wrapper/ProductNotFoundException.java
-/home/geoffrey0pv/Projects/2025-2/Ingeosft5/ecommerce-microservice-backend-app/product-service/src/main/java/com/selimhorri/app/service/ProductService.java
-/home/geoffrey0pv/Projects/2025-2/Ingeosft5/ecommerce-microservice-backend-app/product-service/src/main/java/com/selimhorri/app/service/impl/ProductServiceImpl.java
-/home/geoffrey0pv/Projects/2025-2/Ingeosft5/ecommerce-microservice-backend-app/product-service/src/main/java/com/selimhorri/app/repository/ProductRepository.java
-/home/geoffrey0pv/Projects/2025-2/Ingeosft5/ecommerce-microservice-backend-app/product-service/src/main/java/com/selimhorri/app/config/client/ClientConfig.java
-/home/geoffrey0pv/Projects/2025-2/Ingeosft5/ecommerce-microservice-backend-app/product-service/src/main/java/com/selimhorri/app/domain/Category.java
-/home/geoffrey0pv/Projects/2025-2/Ingeosft5/ecommerce-microservice-backend-app/product-service/src/main/java/com/selimhorri/app/helper/CategoryMappingHelper.java
-/home/geoffrey0pv/Projects/2025-2/Ingeosft5/ecommerce-microservice-backend-app/product-service/src/main/java/com/selimhorri/app/ProductServiceApplication.java
-/home/geoffrey0pv/Projects/2025-2/Ingeosft5/ecommerce-microservice-backend-app/product-service/src/main/java/com/selimhorri/app/dto/CategoryDto.java
-/home/geoffrey0pv/Projects/2025-2/Ingeosft5/ecommerce-microservice-backend-app/product-service/src/main/java/com/selimhorri/app/resource/ProductResource.java
-/home/geoffrey0pv/Projects/2025-2/Ingeosft5/ecommerce-microservice-backend-app/product-service/src/main/java/com/selimhorri/app/service/impl/CategoryServiceImpl.java
-/home/geoffrey0pv/Projects/2025-2/Ingeosft5/ecommerce-microservice-backend-app/product-service/src/main/java/com/selimhorri/app/dto/ProductDto.java
-/home/geoffrey0pv/Projects/2025-2/Ingeosft5/ecommerce-microservice-backend-app/product-service/src/main/java/com/selimhorri/app/helper/ProductMappingHelper.java
+/home/geoffrey0pv/Projects/2025-2/Ingeosft5/PROYECTO FINAL/product-service/src/main/java/com/selimhorri/app/exception/payload/ExceptionMsg.java
+/home/geoffrey0pv/Projects/2025-2/Ingeosft5/PROYECTO FINAL/product-service/src/main/java/com/selimhorri/app/dto/ProductDto.java
+/home/geoffrey0pv/Projects/2025-2/Ingeosft5/PROYECTO FINAL/product-service/src/main/java/com/selimhorri/app/repository/ProductRepository.java
+/home/geoffrey0pv/Projects/2025-2/Ingeosft5/PROYECTO FINAL/product-service/src/main/java/com/selimhorri/app/exception/ApiExceptionHandler.java
+/home/geoffrey0pv/Projects/2025-2/Ingeosft5/PROYECTO FINAL/product-service/src/main/java/com/selimhorri/app/domain/Product.java
+/home/geoffrey0pv/Projects/2025-2/Ingeosft5/PROYECTO FINAL/product-service/src/main/java/com/selimhorri/app/helper/CategoryMappingHelper.java
+/home/geoffrey0pv/Projects/2025-2/Ingeosft5/PROYECTO FINAL/product-service/src/main/java/com/selimhorri/app/service/ProductService.java
+/home/geoffrey0pv/Projects/2025-2/Ingeosft5/PROYECTO FINAL/product-service/src/main/java/com/selimhorri/app/constant/AppConstant.java
+/home/geoffrey0pv/Projects/2025-2/Ingeosft5/PROYECTO FINAL/product-service/src/main/java/com/selimhorri/app/config/mapper/MapperConfig.java
+/home/geoffrey0pv/Projects/2025-2/Ingeosft5/PROYECTO FINAL/product-service/src/main/java/com/selimhorri/app/resource/ProductResource.java
+/home/geoffrey0pv/Projects/2025-2/Ingeosft5/PROYECTO FINAL/product-service/src/main/java/com/selimhorri/app/service/CategoryService.java
+/home/geoffrey0pv/Projects/2025-2/Ingeosft5/PROYECTO FINAL/product-service/src/main/java/com/selimhorri/app/service/impl/CategoryServiceImpl.java
+/home/geoffrey0pv/Projects/2025-2/Ingeosft5/PROYECTO FINAL/product-service/src/main/java/com/selimhorri/app/ProductServiceApplication.java
+/home/geoffrey0pv/Projects/2025-2/Ingeosft5/PROYECTO FINAL/product-service/src/main/java/com/selimhorri/app/repository/CategoryRepository.java
+/home/geoffrey0pv/Projects/2025-2/Ingeosft5/PROYECTO FINAL/product-service/src/main/java/com/selimhorri/app/dto/response/collection/DtoCollectionResponse.java
+/home/geoffrey0pv/Projects/2025-2/Ingeosft5/PROYECTO FINAL/product-service/src/main/java/com/selimhorri/app/domain/Category.java
+/home/geoffrey0pv/Projects/2025-2/Ingeosft5/PROYECTO FINAL/product-service/src/main/java/com/selimhorri/app/resource/CategoryResource.java
+/home/geoffrey0pv/Projects/2025-2/Ingeosft5/PROYECTO FINAL/product-service/src/main/java/com/selimhorri/app/helper/ProductMappingHelper.java
+/home/geoffrey0pv/Projects/2025-2/Ingeosft5/PROYECTO FINAL/product-service/src/main/java/com/selimhorri/app/exception/wrapper/ProductNotFoundException.java
+/home/geoffrey0pv/Projects/2025-2/Ingeosft5/PROYECTO FINAL/product-service/src/main/java/com/selimhorri/app/service/impl/ProductServiceImpl.java
+/home/geoffrey0pv/Projects/2025-2/Ingeosft5/PROYECTO FINAL/product-service/src/main/java/com/selimhorri/app/domain/AbstractMappedEntity.java
+/home/geoffrey0pv/Projects/2025-2/Ingeosft5/PROYECTO FINAL/product-service/src/main/java/com/selimhorri/app/exception/wrapper/CategoryNotFoundException.java
+/home/geoffrey0pv/Projects/2025-2/Ingeosft5/PROYECTO FINAL/product-service/src/main/java/com/selimhorri/app/config/client/ClientConfig.java
+/home/geoffrey0pv/Projects/2025-2/Ingeosft5/PROYECTO FINAL/product-service/src/main/java/com/selimhorri/app/dto/CategoryDto.java
